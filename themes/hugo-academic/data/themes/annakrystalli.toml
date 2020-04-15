@@ -1,0 +1,18 @@
+# Theme metadata
+name = "annakrystalli"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#ADCAE2"
+
+# Menu
+menu_primary = "#294550" # 500
+menu_text = "#fff"
+menu_text_active = "#8c9eff" # A100
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "#ECF0F6"
+home_section_even = "rgb(247, 247, 247)"
