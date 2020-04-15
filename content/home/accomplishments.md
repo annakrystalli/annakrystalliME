@@ -18,34 +18,30 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+
 
 [[item]]
   organization = "Software Sustainability Institute"
   organization_url = "https://www.software.ac.uk/"
-  title = "2019 Fellow"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://software.ac.uk/blog/2019-04-11-announcing-2019-software-sustainability-institute-fellows"
+  title = "2019 Software Sustainability Institute Fellow"
+  url = "https://software.ac.uk/blog/2019-04-11-announcing-2019-software-sustainability-institute-fellows"
   date_start = "2019-03-01"
   date_end = ""
   description = "**Software Sustainability Institute Fellowship** 2019 Cohort for **ReproHack** project"
   
 [[item]]
-  organization = "Research Software Engineering Conference 2019"
-  organization_url = "https://www.datacamp.com"
-  title = "Poster: `pkreviewr`"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = "Won first prize in conference poster competition"
+  organization = "4rth Research Software Engineering Conference 2019"
+  organization_url = "https://rse.ac.uk/conf2019/"
+  title = "Poster: `pkreviewr`: supporting rOpenSci package reviews through guidance, templating and automation"
+  url = "https://rseconuk2019.sched.com/event/SMZv/p17-pkgreviewr-supporting-ropensci-package-reviews-through-guidance-automation-and-templating"
+  date_start = "2019-09-17"
+  description = "First prize in the conference poster competition."
 
+[[item]]
+  organization = "Mozilla"
+  organization_url = "https://foundation.mozilla.org/"
+  title = "Mozilla Network 50"
+  url = "https://foundation.mozilla.org/en/initiatives/network-50/#anna-krystalli"
+  date_start = "2016-12-01"
+  description = "Named in Mozilla Network 50: _50 People Who Made the Internet a Better Place in 2016_"
 +++
