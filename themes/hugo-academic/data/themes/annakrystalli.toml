@@ -2,17 +2,17 @@
 name = "annakrystalli"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 primary = "#ADCAE2"
 
 # Menu
 menu_primary = "#294550" # 500
-menu_text = "#fff"
-menu_text_active = "#8c9eff" # A100
-menu_title = "#fff"
+menu_text = "#ECF0F6"
+menu_text_active = "#B2CAD6" # A100
+menu_title = "#ECF0F6"
 
 # Home sections
-home_section_odd = "#ECF0F6"
-home_section_even = "rgb(247, 247, 247)"
+home_section_even = "#1B3640"
+home_section_odd = "#2C4F59"
